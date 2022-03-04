@@ -35,6 +35,7 @@
 					placeholder="Contact hours per week" value="2"
 					title="Contact hours" required>
 			</p>
+			<input type="hidden" name="secretValue" value="mySecretValue">
 		</fieldset>
 		<p>
 			<input type="submit" value="Calculate">
