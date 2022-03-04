@@ -9,7 +9,7 @@
 </head>
 <body>
 <h2>Course info</h2>
-	<form method="post" action="Course">
+	<form method="POST" action="Course?secretValue=mySecretValue">
 		<fieldset>
 			<legend>Identification</legend>
 			<p>
